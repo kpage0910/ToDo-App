@@ -16,4 +16,4 @@ A simple todo list app that saves your tasks.
 - Delete tasks
 - Saves automatically
 
-Built with HTML, CSS,
+Built with HTML, CSS, and JavaScript
